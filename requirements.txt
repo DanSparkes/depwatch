@@ -9,7 +9,7 @@ django-environ==0.4.5
 djangorestframework==3.12.2
 secure==0.2.1
 django-axes==5.5.0
-jinja2==2.11.2
+jinja2==2.11.3
 
 django-crispy-forms==1.8.1
 django-bootstrap4==2.3.1
