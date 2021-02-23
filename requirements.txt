@@ -1,5 +1,5 @@
 black
-django==2.2.18
+django==3.1.7
 boto3==1.12.39
 django-storages==1.8
 pillow==8.1.0
