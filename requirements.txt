@@ -1,4 +1,4 @@
-django==4.0.4
+django==4.0.6
 boto3==1.17.14
 django-storages==1.11.1
 pillow==9.0.1
