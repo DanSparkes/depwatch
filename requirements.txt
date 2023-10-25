@@ -12,7 +12,7 @@ jinja2==2.11.3
 
 django-crispy-forms==1.11.1
 django-bootstrap4==2.3.1
-django-grappelli==2.14.3
+django-grappelli==3.0.8
 django-chartjs==2.2.1
 
 black==20.8b1
